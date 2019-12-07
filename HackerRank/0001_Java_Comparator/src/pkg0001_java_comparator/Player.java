@@ -16,5 +16,9 @@ public class Player {
     public Player(String name, int score){
         this.name = name;
         this.score=score;
+    }  
+    
+    public String toString(){
+        return this.name +" " + this.score;
     }
 }
