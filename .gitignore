@@ -6,3 +6,10 @@
 /HackerRank/Java_Comparator/build/
 /HackerRank/0001_Java_Comparator/nbproject/private/
 /HackerRank/0001_Java_Comparator/build/
+/HackerRank/0002_java_trying/nbproject/private/
+/HackerRank/0002_java_trying/build/
+/HackerRank/0003_Java_Trying/nbproject/private/
+/HackerRank/0003_Java_Trying/build/
+*.xml
+*.properties
+*.mf
