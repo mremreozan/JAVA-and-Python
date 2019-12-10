@@ -13,3 +13,5 @@
 *.xml
 *.properties
 *.mf
+/HackerRank/0002_Java_Sort/nbproject/private/
+/HackerRank/0002_Java_Sort/build/
