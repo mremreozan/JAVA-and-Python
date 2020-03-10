@@ -19,3 +19,12 @@ areas_copy2[0] = "yusuf"   # this change nothing in the areas because it is a ex
 
 # Print areas
 print(areas)
+
+
+nums = [2, 4, 6]
+# Unpack nums into num1, num2, and num3
+num1, num2, num3 = nums
+
+# Construct even_nums
+even_nums = (1, num2, num3)
+print(even_nums)
