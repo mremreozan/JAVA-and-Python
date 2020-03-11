@@ -28,3 +28,14 @@ num1, num2, num3 = nums
 # Construct even_nums
 even_nums = (1, num2, num3)
 print(even_nums)
+
+
+
+# Create a range object: values
+values = range(10, 20)
+
+# Get the sum of values: values_sum
+values_sum = sum(values)
+
+# Print values_sum
+print(values_sum)
