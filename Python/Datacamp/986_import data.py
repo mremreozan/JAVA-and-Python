@@ -150,3 +150,211 @@ plt.show()
 
 
 
+
+import pickle
+ 
+dictt = {'June': '69.4', 'Aug': '85', 'Airline': '8', 'Mar': '84.4'}
+ 
+pickle.dump( dictt, open( "Datasets/data.pkl", "wb" ) )
+
+# Open pickle file and load data
+# The letters signifying 'read only' and 'binary' are 'r' and 'b', respectively.
+with open('Datasets/data.pkl', 'rb') as file:
+    d = pickle.load(file)
+
+# Print data
+print(d)
+
+# Print datatype
+print(type(d))
+'''
+{'June': '69.4', 'Aug': '85', 'Airline': '8', 'Mar': '84.4'}
+<class 'dict'>
+'''
+
+
+
+# Import pandas
+import pandas as pd
+
+# Assign spreadsheet filename: file
+file = "Datasets/battledeath.xlsx"
+
+# Load spreadsheet: xls
+xls = pd.ExcelFile(file)
+
+# Print sheet names
+print(xls.sheet_names)
+'''
+['2002', '2004']
+'''
+# Load a sheet into a DataFrame by name: df1
+df1 = xls.parse('2004')
+
+# Print the head of the DataFrame df1
+print(df1.head())
+'''
+               War(country)       2004
+0               Afghanistan   9.451028
+1                   Albania   0.130354
+2                   Algeria   3.407277
+...
+'''
+
+# Load a sheet into a DataFrame by index: df2
+# Load the sheet 2002 into the DataFrame df2 using its index (0).
+df2 = xls.parse(0)
+
+# Print the head of the DataFrame df2
+print(df2.head())
+'''
+    War, age-adjusted mortality due to        2002
+0                          Afghanistan   36.083990
+1                              Albania    0.128908
+2                              Algeria   18.314120
+...
+'''
+
+# Parse the first sheet and rename the columns: df1
+# To skip the first row of data, set skiprows = [0].
+# The values passed to skiprows and names all need to be of type list.
+df1 = xls.parse(0, skiprows=[0], names=['Country', 'AAM due to War (2002)'])
+
+# Print the head of the DataFrame df1
+print(df1.head())
+'''
+               Country  AAM due to War (2002)
+0              Albania               0.128908
+1              Algeria              18.314120
+2              Andorra               0.000000
+3               Angola              18.964560
+4  Antigua and Barbuda               0.000000
+'''
+
+# Parse the first column of the second sheet and rename the column: df2
+# Parse only the first column with the usecols parameter
+df2 = xls.parse(1, usecols=[0], skiprows=[0], names=['Country'])
+
+# Print the head of the DataFrame df2
+print(df2.head())
+'''
+    Country
+0              Albania
+1              Algeria
+2              Andorra
+3               Angola
+4  Antigua and Barbuda
+'''
+
+
+
+
+'''
+# Import sas7bdat package
+from sas7bdat import SAS7BDAT
+
+# Save file to a DataFrame: df_sas
+with SAS7BDAT('Datasets/sales.sas7bdat') as file:
+    df_sas = file.to_data_frame()
+
+# Print head of DataFrame
+print(df_sas.head())
+
+# Plot histogram of DataFrame features (pandas and pyplot already imported)
+pd.DataFrame.hist(df_sas[['P']])
+plt.ylabel('count')
+plt.show()
+
+     YEAR     P           S
+0  1950.0  12.9  181.899994
+1  1951.0  11.9  245.000000
+2  1952.0  10.7  250.199997
+3  1953.0  11.3  265.899994
+4  1954.0  11.2  248.500000
+'''
+
+
+
+# Import pandas
+import pandas as pd
+
+# Load Stata file into a pandas DataFrame: df
+df = pd.read_stata('Datasets/disarea.dta')
+
+# Print the head of the DataFrame df
+print(df.head(2))
+'''
+  wbcode               country  disa1  disa2  ...  disa22  disa23  disa24  disa25
+0    AFG           Afghanistan   0.00   0.00  ...    0.00    0.02    0.00    0.00
+1    AGO                Angola   0.32   0.02  ...    0.99    0.98    0.61    0.00
+'''
+# Plot histogram of one column of the DataFrame
+pd.DataFrame.hist(df[['disa10']])
+plt.xlabel('Extent of disease')
+plt.ylabel('Number of countries')
+plt.show()
+
+
+
+
+
+# Import packages
+import numpy as np
+import h5py
+
+# Assign filename: file
+file = 'Datasets/LIGO_data.hdf5'
+
+# Load file: data
+data = h5py.File(file, 'r')
+
+# Print the datatype of the loaded file
+print(type(file))      #  <class 'str'>
+
+# Print the keys of the file
+# Print the names of the groups in the HDF5 file
+for key in data.keys():
+    print(key)
+'''
+meta
+quality
+strain
+'''
+
+
+
+# Get the HDF5 group: group
+group = data['strain']
+
+# Check out keys of group
+for key in group.keys():
+    print(key)             # output: Strain
+
+# Set variable equal to time series data: strain
+strain = data['strain']['Strain'].value
+
+# Set number of time points to sample: num_samples
+num_samples =10000
+
+# Set time vector
+time = np.arange(0, 1, 1/num_samples)
+
+# Plot data
+plt.plot(time, strain[:num_samples])
+plt.xlabel('GPS Time (s)')
+plt.ylabel('strain')
+plt.show()
+
+
+'''
+# We have an error because type of the file have to be matlab but windos make it Mic.Access.Table.
+# How to load a MATLAB file 
+# Import package
+import scipy.io
+
+# Load MATLAB file: mat
+mat = scipy.io.loadmat('Datasets/albeck_gene_expression.mat')
+
+# Print the datatype type of mat
+print(type(mat))      # output: <class 'dict'>
+'''
