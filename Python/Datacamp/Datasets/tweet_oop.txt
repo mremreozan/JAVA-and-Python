@@ -1,0 +1,298 @@
+[DataCamp] Stocks, Significance Testing & p-Hacking --> Learn how to manipulate time series data with pandas and co…
+RT @cbismuth: Linear regression example with most significant features detection. #DataCamp #DataScience #Python #sklearn …
+Linear regression example with most significant features detection. #DataCamp #DataScience #Python #sklearn
+Basic linear regression example. #DataCamp #DataScience #Python #sklearn
+RT @David_Makinde_: I just completed Introduction to Python for Data Science 
+#Datacamp
+#DataScience 
+#Python
+[DataCamp] Enter the #DataFramedChallenge for a chance to be on an upcoming podcast segment. --> DataCamp has a pod…
+[DataCamp] Introduction to Python Metaclasses --> In this tutorial, you'll learn about metaclasses in Python. by De…
+I just completed Introduction to Python for Data Science 
+#Datacamp
+#DataScience 
+#Python
+RT @cbismuth: My pretty first classifier! #DataCamp #Python #sklearn
+My pretty first classifier! #DataCamp #Python #sklearn
+RT @ascentt: The different #DataScience roles on the job market. 
+
+
+
+#SoftwareTesting #DataEngineer #DataScientist #…
+The different #DataScience roles on the job market. 
+
+
+
+#SoftwareTesting #DataEngineer…
+Conseguí el contacto de una de las encargadas de la división informática de la OPP (gracias a la gente del…
+Weapons of Math Destruction #datacamp #podcast
+[DataCamp] Shareable Data Science with Kyso --> In this tutorial, you’ll learn how to create publishable and reprod…
+Studying has to be done every day, prepare yourself for the next opportunity. A leader must show how its done.…
+@DataCamp #learningR #programming #datacamp
+Trilha incrível de Programação em Python do projeto DataCamp, concluída com sucesso! 🙌🙌🙌
+#DataCamp #DataScience…
+Depois de um longo dia de trabalho é hora de investir no futuro. #OQueVamosAprenderHoje ?
+
+#datascience #dsa…
+RT @charlyingsparks: This is so spot on. 
+@DataCamp @hugobowne #DataFramedchallenge @hmason #empathy
+#datascience #datacamp …
+RT @gastronomy: [DataCamp] Naive Bayes Classification using Scikit-learn --> Learn how to build and evaluate a Naive Bayes Classifier using…
+[DataCamp] Naive Bayes Classification using Scikit-learn --> Learn how to build and evaluate a Naive Bayes Classifi…
+This is so spot on. 
+@DataCamp @hugobowne #DataFramedchallenge @hmason #empathy
+#datascience #datacamp
+If you want to learn Data Science, start with one of these programming classes by @venturidb…
+Learning about #Shiny in #Datacamp with @minebocek
+RT @aaysbt: Day 32 : I jsut completed the statistical thingking course @DataCamp.  There was lot of thinks to learn my brain is killing me…
+@BernieMat @epi_twit @DataCamp @RStudioJoe @zabormetrics
+@malco_barrett @epi_twit @DataCamp @RStudioJoe @zabormetrics This is perfect. You may have just saved me months of stress in one tweet.
+@BernieMat @epi_twit @DataCamp DataCamp has a course on survival analysis (
+@malco_barrett @epi_twit @DataCamp And thanks for the refs - extremely helpful.
+@malco_barrett @epi_twit @DataCamp Things such as setting up data for survival analysis. I use 'stset' religiously in Stata.
+I can’t continue the class “Text Mining: Bag of Words”@DataCamp
+@BernieMat @epi_twit In general, I recommend @DataCamp and R for Data Science (
+RT @khalid__amer: Day 5 of #100DaysOfCode :
+I have finished the chapter "Customizing plots" from "Introduction to Data Visualization with P…
+RT @DataCamp: New Tutorial: Introduction to Python Metaclasses! In this tutorial, learn what #metaclasses are, how to implement them in #Py…
+I just completed the course "Joining Data in PostgreSQL"!
+“Business people do not need to apologize for wanting to know what the customer wants...” - @andrewgelman with…
+“Big data tends to be messy data. Instead of a random sample, you often get a convenient sample...” - @andrewgelman…
+@DataCamp do you have a curriculum suggestion to mimic the 'Quantitative Analyst with R' track, but focused on…
+RT @mustafanafees: ⁦@DataCamp ⁩’s Data Science And #MachineLearning  Programs: A Review
+@drjekyll75 @DataCamp @dataquestio @kaggle ooh cool, I don't know them. might give something a try :)
+@iC0dE_ @dataquestio @DataCamp both offer courses that are really good. I’m doing the python pipeline and it’s free…
+@Dame_Of_Spades @DataCamp @dataquestio both offer free courses that are really good. @kaggle is another good one wi…
+Thanks @NickCarchedi and @DataCamp for "Intro to SQL for Data Science". Great course!
+RT @DataCamp: Analyzing Police Activity with pandas! In this course, you’ll practice cleaning messy data & create visualizations. This cour…
+Day 32 : I jsut completed the statistical thingking course @DataCamp.  There was lot of thinks to learn my brain is…
+RT @gelliottmorris: Want to learn how to analyze political data? Trying to figure out #rstats and want a familiar dataset? I've got somethi…
+RT @drjekyll75: #100DaysOfCode R1D23: I just completed the course "Intro to Python for Data Science"! …
+I just completed the course "Intro to Python for Data Science"!
+⁦@DataCamp ⁩’s Data Science And #MachineLearning  Programs: A Review
+I just completed the course "Importing Data in Python (Part 2)"!
+@nnstats @DataCamp Another question .. any special reasons for using RStata? Are there things Stata can do that R can't? Tq
+#Python vs R battle for supremacy in #DataScience: 
+
+#Infographic by @DataCamp
+
+#BigData…
+@DataCamp It would be awesome if we could bookmark courses we're interested in. It'd be even more awesome if we could create playlists.
+RT @DataCamp: Modeling with Data in the Tidyverse! In this course, you will learn to model with data. Models attempt to capture the relatio…
+@JamesMarsh79 @DataCamp Thanks
+@ShipSystem @DataCamp I did think the interface worked well and directions were clear most of the time
+@JamesMarsh79 @DataCamp any feedback?
+I’m entering #dataframedchallenge and you’ll see me coming. Can’t wait to listen to some great podcasts! @DataCamp @hugobowne
+I just completed the course "Introduction to R"!
+Thoroughly enjoyed the Introduction to the Tidyverse course @DataCamp by @drob. Great instructor!…
+RT @jenineharris: I am so excited to officially be a @DataCamp instructor! Thank you to the fantastic @old_man_chester and @venturidb for w…
+@jenineharris @DataCamp @old_man_chester @venturidb WHAT!!! Congrats Dr. HaRRis!!
+Thoroughly enjoyed the Career Track Data Scientist with R @DataCamp course, great instructors!, getting the most ou…
+Want to learn how to analyze political data? Trying to figure out #rstats and want a familiar dataset? I've got som…
+I just completed the course "Cleaning Data in R" @DataCamp. Learned a lot of functions from #tidyr, #stringr, and #lubridate packages!
+Thoroughly enjoyed the Joining Data in PostgreSQL @DataCamp course by @old_man_chester. Great instructor!
+RT @DataCamp: Did you already get your Pandas basics cheat sheet? -
+#100DaysOfCode R1D23: I just completed the course "Intro to Python for Data Science"!
+@DataCamp Here's another introduction to (K-Means clustering) analysis applied to UK Police data…
+@DannyIsSerious @nnstats @DataCamp How good is the Rstata  package?
+RT @simplivllc: Python Programming Certification Course {40%OFF}
+
+#technology #Software #MachineLearning #tech #educ…
+RT @nnstats: ok, responses to the data science questions that have been thrown my way in the last 24 hours:
+
+• Python or R?
+doesn’t matter.…
+RT @pisastero: I've just discovered ggthemes and the many many hours of @DataCamp have just paid off a million times. This is a game change…
+Just got back from a week in Dublin with @DataCamp for our work week and I only have 100 or so Github notifications, far less than expected!
+RT @sctyner: Back from vacation today, and this lovely gift from my friend @chendaniely was waiting for me! Which reminds me, I need to get…
+Back from vacation today, and this lovely gift from my friend @chendaniely was waiting for me! Which reminds me, I…
+Data science for biologists course @ucl is underway! A massive thank you to @DataCamp for giving us access to their wonderful tutorials!
+RT @rstudio: @DukeSSRI has been developing a free 7part @DataCamp series on Causal Inference with R. The first 3 parts are up;
+-Intro https…
+@jenineharris @DataCamp @old_man_chester @venturidb Awesome! Congrats!
+RT @aaysbt: Day 31 : Hypothesis test examples as apart of the statictical thingking course @DataCamp #100DaysOfCode #python #Statistics #Da…
+I am so excited to officially be a @DataCamp instructor! Thank you to the fantastic @old_man_chester and @venturidb…
+Python Programming Certification Course {40%OFF}
+
+#technology #Software #MachineLearning…
+RT @DataCamp: Intermediate Spreadsheets for Data Science! This course will expand your Google Sheets vocabulary. You'll dive deep into data…
+RT @DataCamp: Pivot Tables with Spreadsheets! Learn techniques such as sorting, subtotaling, & filtering your data using real world example…
+RT @DataCamp: Could TensorBoard help you? This tutorial will guide you on how to use TensorBoard, which is a fantastic utility that allows…
+Day 31 : Hypothesis test examples as apart of the statictical thingking course @DataCamp #100DaysOfCode #python…
+I just completed the course "Network Science in R - A Tidy Approach"!
+@nnstats @DataCamp Datacamp was nice bc you never had to set up an environment or manages package/version conflicts…
+RT @aaysbt: Day 30: bootstrap confidence intervals as a part of the statistical thinking in #python course @DataCamp #100DaysOfCode #CodeNe…
+@DataCamp It has been more than 4 days, you guys are not resolving the issues. I am waiting, Request #119967. Can a…
+RT @DataCamp: Are you manipulating time series data in R with xts? Get your copy of DataCamp's xts cheat sheet here: …
+RT @AndroidCiudadan: #100DaysOfCode R2Day41-42: I've been grinding the @DataCamp Data science courses with python, having fun with the data…
+#100DaysOfCode R2Day41-42: I've been grinding the @DataCamp Data science courses with python, having fun with the d…
+I just completed the course "Joining Data in PostgreSQL"!
+RT @DataCamp: New Tutorial: Naive Bayes Classification using Scikit-learn! Learn how to build and evaluate a #Naive #Bayes #Classifier usin…
+@nnstats @DataCamp Can R run SAP hockey analytics
+@MBMiller_AT @AcademicChatter @DataCamp You're welcome!  Hope that helps 😊
+@PNgsabrina @AcademicChatter @DataCamp Great thanks!
+@MBMiller_AT @AcademicChatter Highly recommend  @DataCamp ! They have detail video tutorials and practices to conso…
+Good tool for learners of #Datascience #Data #Python #Pandas #Numpy @DataCamp
+@nnstats @DataCamp Do a Twitter survey for the question: Python or R.
+@nnstats @hugobowne @DataCamp I like this post
+RT @DataCamp: New Tutorial: Shareable Data Science with @kyso_io! Learn how to create publishable and reproducible data science studies on…
+@PREDStotheCUP @nnstats @DataCamp Something pirates say
+@CodeNewbies A2: Just finished up my semester. Looking to keep working on @DataCamp courses during the down time. A…
+I've just discovered ggthemes and the many many hours of @DataCamp have just paid off a million times. This is a game changer. #rstats
+Day 30: bootstrap confidence intervals as a part of the statistical thinking in #python course @DataCamp…
+@Rick_Scavetta I recently finished parts 1 and 2 of your Data Visualization with ggplot2 course on @datacamp. The d…
+RT @DataCamp: Tutorial: Bivariate Distribution Heatmaps in R! Learn how to visually show the relationship between two features, how they in…
+@nnstats @DataCamp where can i find the numbies
+@nnstats @DataCamp So I’m exploring the RStata package, but it doesn’t look like it can generate graphical output. Am I missing something?
+Hello #R4DS community I’m getting into R course by @DataCamp... Any tips for some projects to play with?!
+I also vouch for @DataCamp
+@nnstats @DataCamp What is R?
+ok, responses to the data science questions that have been thrown my way in the last 24 hours:
+
+• Python or R?
+does…
+@DataCamp Hi! do y’all have a phone number for customer service?
+RT @iPablo26: I just completed the Pandas foundation course on @DataCamp 
+#DataScience #machinelearning #Python #learningcurve …
+I just completed the Pandas foundation course on @DataCamp 
+#DataScience #machinelearning #Python #learningcurve
+I just completed the course "Importing Data in Python (Part 2)"!
+RT @DataCamp: This handy one-page cheat sheet presents the #Python basics that you need to perform data analysis!
+…
+RT @OyewoleIsmail: Yes!!!!!, Journey of over 90 days on @DataCamp,  learning Data Science. Thanks 2 @DataCamp and All the instructors for t…
+RT @BCBreeden: During my winter break I want to stay sharp. Going to tackle data imports and some visualization courses on @DataCamp. #Data…
+During my winter break I want to stay sharp. Going to tackle data imports and some visualization courses on…
+I try to split my days when i have time.
+
+One day read my books
+Second day continue my work @DataCamp 
+Third day fo…
+I just completed the course "pandas Foundations"!
+Though I was asked by @DataCamp to share the tweet above, I am genuinely grateful for the opportunity to integrate…
+@AlenaShiryaev12 @DataCamp You’re welcome! Keep an eye out for a great follow-up course by @mona_khm coming soon!
+1 año más de @DataCamp  esta vez si lo aprovecharé jeje hay tanto que aprender
+When you start getting @DataCamp ads on your kpop videos...
+#gradschool #gradstudentlife #whyme
+RT @DataCamp: Watch a new webinar by @robinson_es, a data scientist at DataCamp, who will give a brief introduction to the concept of the #…
+Thoroughly enjoyed the Joining Data in PostgreSQL @DataCamp course by @old_man_chester. Great instructor!…
+I just completed the course "Python Data Science Toolbox (Part 1)"!
+RT @muxevola: @DataCamp @hugobowne #DataFramedChallenge @wesmckinn
+Pandas' built-in assumption is that data fits in memory. If you want to…
+RT @DataCamp: New Course: Working with Data in the Tidyverse! You'll learn to work with data using tools from the #tidyverse in R. Througho…
+RT @MercyMarkus: I just completed the course "Importing Data in Python (Part 2)"!
+RT @RikaGorn: Taking notes during a podcast is def a first for me! Just listened to the brilliant @AngeBassa on @DataCamp DataFramed podcas…
+@MercyMarkus @DataCamp Congrats! Am coming to block you for you to teach me oh
+I just completed the course "Importing Data in Python (Part 2)"!
+I just completed the course "Importing Data in Python (Part 1)"!
+@DataCamp is generously supporting my class. Find out more about DataCamp for the Classroom:
+Thoroughly enjoyed the Joining Data in PostgreSQL @DataCamp course by @old_man_chester. Great instructor!
+@DataCamp My annual subscription automatically renewed without any prior warning (such as an email). I did not want…
+@DataCamp Any sales coming?
+In addition still work on my own programming language. 
+
+Work on my other projects and earn my credentials to be a…
+I just completed the course "Python Data Science Toolbox (Part 1)"!
+@718143 @DataCamp @ProjectJupyter @codingphase Mind blown!
+@RikaGorn @AngeBassa @DataCamp @iRobot This was definitely of my memorable episodes from @DataCamp , actually I sho…
+I just completed the course "Intermediate Python for Data Science"!
+RT @718143: #Day39 
+📖 #Python reference material to break up my @DataCamp & @ProjectJupyter routine -
+Also, THIS:  (…
+#Day39 
+📖 #Python reference material to break up my @DataCamp & @ProjectJupyter routine -
+Also, THIS:…
+@RikaGorn @AngeBassa @DataCamp @iRobot ⭐️⭐️⭐️⭐️⭐️
+RT @Kunkakom: @maqartan @aecoppock 
+
+Christmas is close.
+On my wishlist: A @DataCamp intro course to DeclareDesign.
+
+Thank you, Santa!
+@Kunkakom @maqartan @DataCamp That's a fantastic idea. We'll send it up north and see what he says!
+@maqartan @aecoppock 
+
+Christmas is close.
+On my wishlist: A @DataCamp intro course to DeclareDesign.
+
+Thank you, Santa!
+@DataCamp @jpls93 Definitely didn’t get a reminder email.
+@DataCamp @shankarSRC I’m in the same situation with no renewal reminder.
+@DataCamp @jpls93 I have the same problem - no refund? Guess I’ll have to dispute it with my CC.
+Taking notes during a podcast is def a first for me! Just listened to the brilliant @AngeBassa on @DataCamp DataFra…
+RT @DataCamp: New Project by @venturidb: Introduction to DataCamp Projects! An introduction to DataCamp projects, we'll walk you through th…
+Thanks @DataCamp for refunding the unintentional annual subscription!
+RT @capigian: Excited to be using @DataCamp for the Classroom in my Predictive Analytics class. They support education for free via this in…
+Blended learning üzerine güzel bir haber! Leuphana Üniversitesi “Data Science” kürsüsü, premium üyelik için…
+Yes!!!!!, Journey of over 90 days on @DataCamp,  learning Data Science. Thanks 2 @DataCamp and All the instructors…
+Excited to be using @DataCamp for the Classroom in my Predictive Analytics class. They support education for free v…
+RT @hahaha_it_is_i: Day 45 #100DaysOfCode
+
+Some @DataCamp, some #pytorchudacityscholar challenge. Nothing significant in either. Just chugg…
+Thoroughly enjoyed the Introduction to the Tidyverse course @DataCamp by @drob. Great instructor!…
+Advice for Applying to #DataScience Jobs
+@techmariah @DataCamp Yes!
+@hahaha_it_is_i @DataCamp Keep it up! Inspired to continue by seeing other women do the challenge! #WomenWhoCode
+Day 45 #100DaysOfCode
+
+Some @DataCamp, some #pytorchudacityscholar challenge. Nothing significant in either. Just c…
+RT @AndroidCiudadan: #100DaysOfCode R2Day40: Today I started a course of data science on @DataCamp, I learned about numpy, matplotlib and I…
+#100DaysOfCode R2Day40: Today I started a course of data science on @DataCamp, I learned about numpy, matplotlib an…
+If this football game has you down, you can always learn some linear algebra here :)
+
+
+
+@DataCamp
+RT @hugobowne: Nearly everybody: If you want to run machine learning in production you use python.
+
+Me: You're wrong.
+
+Nearly everybody: WT…
+RT @DaveRubal: Bokeh is the #Python #datavisualization library that enables high-performance visual presentation of large datasets in moder…
+RT @tyleransom: I was on the team that created these free @DataCamp courses on causal inference in R. Check them out if you think they’d be…
+RT @aaysbt: Day 29 : Statistical thinking for #DataScience and learning Parameter estimation by optimization @DataCamp #100DaysOfCode #pyth…
+RT @charlyingsparks: We can't forget to have fun in what we do.
+
+@datacamp @hugobowne "First and foremost just keep your excitement for it,…
+We can't forget to have fun in what we do.
+
+@datacamp @hugobowne "First and foremost just keep your excitement for…
+@DataCamp by @drob --> if I've got good mark at my assessment thanks to your lesson, I gonna follow them all ! (by…
+New Tutorial posted on @DataCamp !
+RT @DataCamp: New Tutorial: Automated Machine Learning with Auto-Keras! Learn about automated machine learning and how it can be done using…
+@dsimposters @BecomingDataSci @DataCamp Thank you very much. I appreciate your input.
+@jpls93 @DataCamp Same here this is not only shows bad business practices but also the true intentions to rip off
+@DataCamp I had so much of respect for you guys as your company but today they are all going to be ruined when I se…
+Hi @DataCamp - I missed the cyber monday sale. Any chance I can get it still or are there any other sales coming up? Thanks!
+Thoroughly enjoyed the Introduction to the Tidyverse course @DataCamp by @drob. Great instructor!
+Welcome:    :)
+@GalarnykMichael @vivekkhetan_ism @PurpleBooth @willems_karlijn @DataCamp Thanks! I think you’re right, and have ju…
+@markchand @PurpleBooth @willems_karlijn @GalarnykMichael @DataCamp Great work @markchand.      Keep doing it with…
+@PurpleBooth @vivekkhetan_ism @willems_karlijn @GalarnykMichael @DataCamp Thanks! Good questions. I mostly wrote it…
+@DataCamp MVPs of the team: @JimSpeckart and @mattmasten
+I was on the team that created these free @DataCamp courses on causal inference in R. Check them out if you think t…
+@aaysbt @DataCamp Kudos! 🎉
+Thoroughly enjoyed the Introduction to the Tidyverse course @DataCamp by @drob. Great instructor! I am left wonderi…
+@MercyMarkus @DataCamp ok I'll go check it out. Thank you.
+@itsDonmonc @DataCamp Just the first module, you'll need to pay to access the rest of the course content.
+I just completed the course "Intro to Python for Data Science"!
+@MercyMarkus @DataCamp is this under one of their free courses?
+Bokeh is the #Python #datavisualization library that enables high-performance visual presentation of large datasets…
+@DataCamp Extremely angry to see that my yearly subscription auto-renewed without warning today! Help article…
+Day 29 : Statistical thinking for #DataScience and learning Parameter estimation by optimization @DataCamp…
+Loved @juliasilge tidy text mining with R on @DataCamp, particularly the Shakespeare text/outfit! #moreplease
+@DataCamp You have a good product. I'll subscribe to you again anytime I consider studying Data Science again. But…
+@markchand @vivekkhetan_ism @willems_karlijn @GalarnykMichael @DataCamp Great work! You have a very approachable wr…
+Learned a lot with subquerying exercises!
+Thoroughly enjoyed the Joining Data in PostgreSQL @DataCamp course by…
+Thoroughly enjoyed the Joining Data in PostgreSQL @DataCamp course by @old_man_chester. Great instructor!
+RT @718143: #Day38
+More! More! More Methods review in @DataCamp 📝📝😁📃
+
+Less actual programming today and more focus on those basic #Python p…
+#Day38
+More! More! More Methods review in @DataCamp 📝📝😁📃
+
+Less actual programming today and more focus on those bas…
+RT @DataCamp: Working with Dates and Times in R by @CVWickham! This course teaches you the essentials of parsing, manipulating, and computi…
+RT @nebelgrau77: Incorporating @DataCamp's "DataFramed" into my daily soundstream was a great idea! There's so much to learn, this time fro…
+RT @charlyingsparks: @DataCamp @hugobowne  "I think we all really need to push for openness of data. I think there's an incredible opportun…
