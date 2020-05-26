@@ -5,7 +5,19 @@ Created on Tue Mar 10 21:09:21 2020
 @author: Utilisateur
 """
 
+'''
+!!!!!! Important Notes !!!!!!!!!!!
 
+string, list, tuple, set, dict are iterable, they are not iterator.
+
+zip object, enumerate(), generator, map function, filter function are both iterable and iterator.
+
+Generator is a special iterable created by function having yield keyword in its body.
+
+iter() makes iterables iterator.
+
+we can traverse in iterator with next().
+'''
 # Create a list of strings: flash
 flash = ['jay garrick', 'barry allen', 'wally west', 'bart allen']
 
