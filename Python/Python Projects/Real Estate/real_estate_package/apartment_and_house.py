@@ -27,6 +27,7 @@ class Apartment(Property):
         print("has balcony: %s" % self.balcony)
         print()
     
+    @staticmethod
     def prompt_init():
         parent_init = Property.prompt_init()
         laundry = get_valid_input(
@@ -41,10 +42,6 @@ class Apartment(Property):
                 "balcony": balcony
                 })
         return parent_init
-    
-
-    prompt_init = staticmethod(prompt_init)
-    
     
 class House(Property):
     valid_garage = ("attached", "detached", "none")
@@ -65,6 +62,7 @@ class House(Property):
         print("fenced yard: {}".format(self.fenced))
         print()
 
+    @staticmethod
     def prompt_init():
         parent_init = Property.prompt_init()
         fenced = get_valid_input("Is the yard fenced? ",
@@ -78,5 +76,3 @@ class House(Property):
                 "num_stories": num_stories
                 })
         return parent_init
-
-    prompt_init = staticmethod(prompt_init)

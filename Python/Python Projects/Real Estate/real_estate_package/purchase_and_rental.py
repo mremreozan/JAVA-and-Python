@@ -20,12 +20,11 @@ class Purchase:
         print()
         print()
     
+    @staticmethod
     def prompt_init():
         return dict(
                 price=input("What is the selling price? "),
                 taxes=input("What are the estimated taxes? "))
-    
-    prompt_init = staticmethod(prompt_init)
     
 class Rental:
     def __init__(self, furnished='', utilities='',
@@ -44,7 +43,8 @@ class Rental:
         print("furnished: {}".format(self.furnished))
         print()
         print()
-        
+    
+    @staticmethod
     def prompt_init():
         return dict(
                 rent=input("What is the monthly rent? "),
@@ -53,5 +53,3 @@ class Rental:
                         furnished = get_valid_input(
                                 "Is the property furnished? ",
                                 ("yes", "no")))
-                
-    prompt_init = staticmethod(prompt_init)
