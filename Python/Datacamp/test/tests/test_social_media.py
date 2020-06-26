@@ -8,7 +8,7 @@ Created on Sun May 31 16:39:40 2020
 import pytest
 from collections import Counter
 import sys
-sys.path.append("..")
+sys.path.append("../..")
 from oop_package import SocialMedia
 
 # Create an instance of SocialMedia for testing
