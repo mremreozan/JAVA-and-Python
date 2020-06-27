@@ -1,4 +1,4 @@
-  We’ll start modeling an HR system. The example will demonstrate the use of inheritance 
+  I am modeling an HR system. The example will demonstrate the use of inheritance 
 and how derived classes can provide a concrete implementation of the base class interface.
 
   The HR system needs to process payroll for the company’s employees, but there are different 
