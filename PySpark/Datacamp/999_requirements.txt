@@ -1,0 +1,2 @@
+# https://spark.apache.org/docs/latest/api/python/getting_started/install.html
+# conda install -c conda-forge pyspark
